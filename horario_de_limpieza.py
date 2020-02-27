@@ -35,13 +35,13 @@ def mi_horario():
 
 root = Tk()
 
-label = Label(root, text="Artur revientachochos:")
+label = Label(root, text="Artur:")
 label.grid(row=0, column=0, sticky=W)
 
-label2 = Label(root, text="Alejandro comecojones:")
+label2 = Label(root, text="Alejandro:")
 label2.grid(row=1, column=0, sticky=W)
 
-label3 = Label(root, text="Jhonny mierdecilla:")
+label3 = Label(root, text="Jhonny:")
 label3.grid(row=2, column=0, sticky=W)
 
 label4 = Label(root, text="")
